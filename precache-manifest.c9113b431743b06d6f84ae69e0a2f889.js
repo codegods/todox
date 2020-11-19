@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a1536195f388dc3fe4c4d8a7c601693",
+    "revision": "704ce01c661b2a4f6e2e10189284d87c",
     "url": "/todox/index.html"
   },
   {
@@ -81,6 +81,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "url": "/todox/bg_offline.jpg",
-    "revision": "5YM1m5HWLdHPGH4zg45oyslh"
+    "revision": "M6i6Fi6AMcxH2RrzVpIeR4vl"
   }
 ]);
